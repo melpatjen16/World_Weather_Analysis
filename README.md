@@ -17,7 +17,7 @@ Recommendations were as follows:
 	5. Using the Google Maps Directions API, present travel route between the four cities selected with markers. 
 
 
-##Results
+## Results
 
 While the API selected over 2000 records from a range up to 10,000, after the exclusion of missing hotels, the count was reduced significantly to approximately 300 options. This occurred similarly for multiple runs of code. 
 
