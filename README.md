@@ -25,17 +25,17 @@ We were able to produce the outputs suggested by the Beta testers and establish 
 
 ### Map of Vacation Options
 
-![WeatherPy_vacation_map]("Vacation_Search/WeatherPy_vacation_map.png)
+![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ### Map of Four City Road Trip
 
-![Weather_travel_map] ("Vacation_Itinerary/WeatherPy_travel_map.png)
+![Weather_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
 
 
 
-### Markers for Lodging during Four City Road Trip (markers)
+### Markers for Lodging during Four City Road Trip
 
-![Weather_travel_map_markers] ("Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Weather_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
